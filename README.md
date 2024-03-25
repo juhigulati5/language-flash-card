@@ -1,0 +1,1 @@
+This project takes in a .csv of 100 words from two languages: Hindi and English. It sets up a GUI for the user to look at the words and then after 3 seconds, switch to their English translation. If a user knows the word, it gets removed from the list whereas if they don't, it gets appended to a new .csv so that they can practice those words specifically. 
